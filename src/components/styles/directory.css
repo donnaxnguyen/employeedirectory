@@ -1,0 +1,29 @@
+.jumbotron {
+    background:#bbceff;
+  }
+  
+  h2, h4 {
+    color: #000000;
+    font-family: 'Assistant', sans-serif;
+  }
+  
+  p {
+    color: #000000;
+    font-family: 'Assistant', sans-serif;
+    font-size: 1.5rem;
+  }
+  
+  .table {
+    background: #bbceff;
+    color: #B46382;
+    font-family: 'Assistant', sans-serif;
+  }
+  
+  .thead {
+    background: #d3c0ff;
+    font-family: 'Assistant', sans-serif;
+  }
+  
+  .table td, .table th {
+    border-top: 1px solid #ffffff;
+  }
