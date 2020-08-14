@@ -61,7 +61,7 @@ class Directory extends Component {
           <div className="jumbotron">
             <h2 className="display-4">
               Employee Directory</h2>
-            <p>Welcome to Weenie Hut Juniors. Here are the members apart of our Restaurant.</p>
+            <p>Welcome!</p>
             <p>Search by name or email to find who you're looking for!</p>
             <Search
               name="search"

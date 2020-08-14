@@ -10,7 +10,7 @@ const Search = (props) => {
     <div className="d-flex justify-content-center mx-auto">
       <form>
         <input
-          placeholder="Search for an Employee"
+          placeholder="Search Here"
           name="search"
           type="text"
           className="form-control-lg search-font mx-auto"
