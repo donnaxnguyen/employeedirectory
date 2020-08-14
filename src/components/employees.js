@@ -1,7 +1,6 @@
 // requiring react and moment
 import React from "react";
 import Moment from "moment";
-// ********* adding .css styling later ********* //
 
 // employees will be exported and props will be used to render through the components
 const Employees = (props) => {

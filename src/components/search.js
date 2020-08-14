@@ -1,6 +1,6 @@
 // using react 
 import React from "react";
-// ** add .css styling later ** //
+import "../styles/search.css";
 
 const Search = (props) => {
     // creating a form that will allow a user to input text

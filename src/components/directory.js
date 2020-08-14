@@ -1,7 +1,8 @@
 import React, { Component } from "react";
 import Employees from "./employees.js";
 import Search from "./search.js";
-// ** add .css styling later ** //
+
+import "../styles/directory.css";
 
 
 class Directory extends Component {
